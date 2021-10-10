@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <title>Abigayle McVaney</title>
+
+</head>
+
+<body style="background-color: #336600;">
+<header style="background-color: #cc3300;color: #ffffff;"><h1 style="text-align: center">Team Building Activities</h1></header>
+
+<article style="width: 400px; height: 300px; float: left; overflow: scroll; padding: 10px; background-color: #cccc66">
+<h2>There ought to be a law...</h2>
+<p>This is a simple excercise for individuals, pairs, threes or whole group. The aim of the
+activity is to suggest a new law, which reasons for it. The game can be extended into a 
+clear-communications and writing excersise, by asking the participants to write the new 
+law in clear trms that explain it absolutely with minimum leeway for misunderstanding or 
+misinterpretation. The clearity of the writting can be testd by group questions and 
+review. This exercise is particularly relevant for people who will benefit from individual 
+candidates in ecruitment group sections. This activity can also benefit with responsibility 
+for writing instructions and manuals.</p></article>
+
+<article style="width: 400px; height: 300px; float: right; overflow: auto; padding: 10px; background-color: #cccc66">
+<h2>Flags</h2>
+<p>There is a lot of flexibility in this activity. It can be used for individuals or teams of 
+any sorts. The object of the exercisee is simply to design a flag that symbolizes the person
+or the team (or group or department, etc.). Materials required are just some flip chart
+sheets and colored pens and markers. The exercise can be used as a quick warm-up
+or ic-breaker, say 10 minutes to create the flags, and a couple minutes each to present and review. 
+A longer team or group activity, requiring 10-15 minutes of discussion, development 
+of ideas, creation of the flag design, and then as much time as is necessary
+to present and discuss the reasons and reactions.</p>
+
+<p>When invited to express themselves in a completely new and different medium, 
+people find it easier to really think about their qualities. The exercise is particularly 
+useful to begin inter-departmental workshops. Teams have to think about to they 
+stand for, how they wish to b seen, and other teams have a chance to see and undertand
+collegues or other departments in a different way. As an exercise for work groups, this is a 
+good prompt for debate within the team, and then afterwards between teams when flag designs are presented 
+and reviewed. This exercise is also excellent as an individual activity for children and young 
+people of all ages. It can also be used for pairs of threes of friends, boys groups, girls groups; the 
+possibilities really are endless. As an alternate to include symbols and image icons, as well as colors 
+and shapes.</p></article>
+
+<aside style="background-color: #cc3300; color: #ffffff; text-align: center">
+<p><em>Team building...A process by which members of a group diagnose how well they work together 
+and plan changes which will improve their effectiveness.</em><p></aside> 
+
+<footer style="background-color: #cc3300; color: #ffffff; text-align: center; clear: both"><h3>
+Building A winning Organization!</h3></footer>
+
+</body>
+</html>
